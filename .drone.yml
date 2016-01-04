@@ -1,4 +1,3 @@
-image: node0.10
+image: node0.10.22
 script:
 - npm install
-- make test
